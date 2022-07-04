@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0f12735-e2ff-413d-bd64-b1917ab5e157" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ig1XTfmGd3zDHlbyphbB1hr8KF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="network_scanner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="network_scanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network_scanner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.network_scanner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0f12735-e2ff-413d-bd64-b1917ab5e157" name="Default Changelist" comment="" />
+      <created>1602314462248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602314462248</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1313" height="125" key="GridCell.Tab.0.bottom" timestamp="1602695123554">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="125" key="GridCell.Tab.0.bottom/0.31.1366.632@0.31.1366.632" timestamp="1602695123554" />
+    <state width="1313" height="125" key="GridCell.Tab.0.center" timestamp="1602695123552">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="125" key="GridCell.Tab.0.center/0.31.1366.632@0.31.1366.632" timestamp="1602695123552" />
+    <state width="1313" height="125" key="GridCell.Tab.0.left" timestamp="1602695123548">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="125" key="GridCell.Tab.0.left/0.31.1366.632@0.31.1366.632" timestamp="1602695123548" />
+    <state width="1313" height="125" key="GridCell.Tab.0.right" timestamp="1602695123553">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="125" key="GridCell.Tab.0.right/0.31.1366.632@0.31.1366.632" timestamp="1602695123553" />
+    <state width="1313" height="157" key="GridCell.Tab.1.bottom" timestamp="1602339799794">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="157" key="GridCell.Tab.1.bottom/0.31.1366.632@0.31.1366.632" timestamp="1602339799794" />
+    <state width="1313" height="157" key="GridCell.Tab.1.center" timestamp="1602339799792">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="157" key="GridCell.Tab.1.center/0.31.1366.632@0.31.1366.632" timestamp="1602339799792" />
+    <state width="1313" height="157" key="GridCell.Tab.1.left" timestamp="1602339799787">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="157" key="GridCell.Tab.1.left/0.31.1366.632@0.31.1366.632" timestamp="1602339799787" />
+    <state width="1313" height="157" key="GridCell.Tab.1.right" timestamp="1602339799793">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state width="1313" height="157" key="GridCell.Tab.1.right/0.31.1366.632@0.31.1366.632" timestamp="1602339799793" />
+    <state x="346" y="31" key="search.everywhere.popup" timestamp="1602690715248">
+      <screen x="0" y="31" width="1366" height="632" />
+    </state>
+    <state x="346" y="31" key="search.everywhere.popup/0.31.1366.632@0.31.1366.632" timestamp="1602690715248" />
+  </component>
+</project>
